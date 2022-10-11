@@ -1,11 +1,11 @@
 {
     "name": "Aplicación Vite y PWA",
     "short_name": "VitePWA",
-    "start_url": "/",
+    "start_url": "./",
     "display": "fullscreen",
     "background_color": "#ffffff",
     "lang": "es-MX",
-    "scope": "/",
+    "scope": "./",
     "theme_color": "#ffffff",
     "description": "Aplicación de Ejemplo del Pluggin PWA para Vite",
     "orientation": "portrait",
